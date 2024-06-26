@@ -1,4 +1,9 @@
-background upscaled 2x to 4k with Upscayl 2.11.5 (Ultramix Balanced preset)
+## Fork Changes
+
+* Background upscaled 2x to 4k with Upscayl 2.11.5 (Ultramix Balanced preset)
+* Other Minor Changes
+
+
 
 ## CRT-Amber GRUB Theme
 
@@ -7,8 +12,11 @@ Credit to SHazardous for the Background image used. (https://www.nexusmods.com/f
 ![](https://i.imgur.com/NWHYuAj.gif)  
 
 ---
+### Arch Installation
 
-### Installation
+`yay -S grub2-theme-crt-amber-4k-git`
+
+### Manual Installation
 
 1. Copy entire folder to your /boot/grub/themes directory.  
 2. Edit the /etc/default/grub file with Root permissions and change the #GRUB_THEME= line to GRUB_THEME=/boot/grub/themes/CRT-Amber-GRUB-Theme/theme.txt
