@@ -16,7 +16,7 @@ terminal-border: "0"
   top = 8%
   width = 100%
   align = "center"
-  text = "GNU GRAND UNIFIED BOOTLOADER VER 2.2"
+  text = "GNU GRAND UNIFIED BOOTLOADER VER 2.12"
   color = "#B36400"
   font = "Fixedsys Regular 32"
 }
