@@ -1,3 +1,5 @@
+background upscaled 2x to 4k with Upscayl 2.11.5 (Ultramix Balanced preset)
+
 ## CRT-Amber GRUB Theme
 
 Generic Amber CRT Terminal theme for use with GRUB. Created using Shvchk's Fallout theme as a base.  
